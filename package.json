@@ -12,5 +12,16 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "description": "Projeto em evolução",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibsonlima/academia-nodejs-ficr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ibsonlima/academia-nodejs-ficr/issues"
+  },
+  "homepage": "https://github.com/ibsonlima/academia-nodejs-ficr#readme"
 }
